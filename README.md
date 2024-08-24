@@ -10,6 +10,7 @@ Homeworks' themes:
 5)  Mutualistic ecological structure
 
 **Part II: Neuroscience**
+
 4) Neural avalanches
 
 7) Positive feedback loop
